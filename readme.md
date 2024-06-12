@@ -32,7 +32,8 @@ This project implements a Document Q&A application using LangChain, Streamlit, a
 5. Start the Streamlit application:
     ```bash
     streamlit run app.py
-
+    
+App link: https://document-q-a-ia2w8xv2mvkgqbuxlr5mpj.streamlit.app/
 
 
 
