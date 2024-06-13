@@ -1,4 +1,4 @@
-# Document Q&A with LangChain and Streamlit
+# Document Q&A
 
 This project implements a Document Q&A application using LangChain, Streamlit, and various other components for document processing, embedding, and querying. The application allows users to upload PDF documents, create vector embeddings from these documents, and query the documents for specific information.
 
